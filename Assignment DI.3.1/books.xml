@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<booksCanon>
+
+<book id="book_id"><title>PHP Learning</title><edition>2</edition><authors><author><firstname>Carlson</firstname><lastname>Bent</lastname></author></authors><publisher><publishername>Kodnings Forlaget</publishername><publisheryear>2019</publisheryear><publisherplace>Copenhagen</publisherplace></publisher><pages>345</pages><price>€ 50</price><currency>€</currency><comments><comment>No comment</comment></comments></book></booksCanon>
